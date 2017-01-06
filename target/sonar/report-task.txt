@@ -1,5 +1,0 @@
-projectKey=ArchGroup:ArchID
-serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/ArchGroup:ArchID
-ceTaskId=AVlyiX_3ptZGrnVzpoV6
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AVlyiX_3ptZGrnVzpoV6
